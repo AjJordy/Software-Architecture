@@ -1,5 +1,13 @@
 # REST
 
+## Verbs
+
+- GET
+- POST
+- PUT
+- DELETE
+- OPTIONS
+
 ## HTTP Method Negotiation
 
 ```sh
