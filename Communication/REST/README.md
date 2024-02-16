@@ -54,8 +54,6 @@ HTTP/1.1 415 Unsupported Media Type
 }
 ```
 
-## Padrões 
-
 ### Padrão HAL
 
 ```json
@@ -88,6 +86,3 @@ HTTP/1.1 415 Unsupported Media Type
 }
 ```
 
-### Padrão Colletion
-
-### Siren
