@@ -15,3 +15,11 @@ gRPC is a modern open source high performance Remote Procedure Call (RPC) framew
 	- C#
 	- Node.js
 	- Dart
+
+### Protocol Buffers
+
+- bin < json
+- faster
+- smaller
+
+### HTTP/2
